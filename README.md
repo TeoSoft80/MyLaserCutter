@@ -1,4 +1,4 @@
-# MyLaserCutter
+# MyLaserEngraver
 the project of my laser engraver machine
 
 Come ho realizzato questa macchina?
