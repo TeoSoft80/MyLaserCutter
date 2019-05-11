@@ -15,8 +15,11 @@ V-Slot - 20x20mm - 1000mm
 V-Slot - 20x20mm - 500mm
 V-Slot - 20x40mm - 1000mm
 
-Elettronica di controllo
+Elettronica di controllo - Scheda con clone di Aruino UNO
 https://www.amazon.it/gp/product/B07FSFFJ4F/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+Driver dell'elettronica per Windows
+https://sparks.gogo.co.nz/ch340.html
 
 Firmware di controllo
 https://github.com/gnea/grbl
@@ -39,3 +42,6 @@ Le cinghie e le ruote possono essere facilmente reperite su amazon o aliexpress
 Esempi
 https://www.amazon.it/BIQU-plastica-stampante-cuscinetti-confezione/dp/B06X9Q7QF5/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=v+wheel&qid=1557610897&s=gateway&sr=8-3
 https://www.amazon.it/PChero-Cinghie-Distribuzione-Fermagli-Stampante/dp/B07354GKS2/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11NEEZ70PISTC&keywords=cinghie+stampante+3d&qid=1557610919&s=gateway&sprefix=cinghie+stampa%2Caps%2C160&sr=8-1-spons&psc=1
+
+Per software di gestione delle immagini da incidere uso questo
+http://lasergrbl.com/it/
