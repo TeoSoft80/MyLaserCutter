@@ -32,6 +32,9 @@ https://openbuildspartstore.com/gt2-2m-timing-pulley-20-tooth/
 Tutti i modelli delle plastiche sono realizzate con la mia stampante 3d e sono archiviati qui
 https://github.com/iltempe/MyLaserCutter/tree/master/stl
 
+Case per l'Elettronica
+https://www.thingiverse.com/thing:3342261
+
 Le cinghie e le ruote possono essere facilmente reperite su amazon o aliexpress
 Esempi
 https://www.amazon.it/BIQU-plastica-stampante-cuscinetti-confezione/dp/B06X9Q7QF5/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=v+wheel&qid=1557610897&s=gateway&sr=8-3
